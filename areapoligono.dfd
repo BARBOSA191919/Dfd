@@ -1,0 +1,39 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+47
+'Escribe uno de los lados del poligono regular'
+5
+1
+4
+lado
+4
+1
+41
+'Escribe el apotema del poligono regular'
+5
+1
+7
+apotema
+6
+1
+9
+perimetro
+8
+lado * 5
+6
+1
+4
+area
+24
+(perimetro * apotema) /2
+4
+1
+33
+'El area del poligono es ' , area
+1

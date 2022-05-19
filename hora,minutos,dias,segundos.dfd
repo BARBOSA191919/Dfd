@@ -1,0 +1,79 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+42
+'Señor usuario digite la cantidad de dias'
+5
+1
+3
+num
+6
+1
+3
+dia
+11
+num * 86400
+4
+1
+50
+'segun la cantidad los segundos a dias son:' , dia
+4
+1
+44
+'señor usuario digite la cantidad de horas '
+5
+1
+4
+num1
+6
+1
+3
+hor
+9
+num1*3600
+4
+1
+52
+'segun la cantidad las horas  a segundos es :' , hor
+4
+1
+46
+'Señor usuario digite la canitdad de minutos '
+5
+1
+4
+num2
+6
+1
+3
+min
+7
+num2*60
+4
+1
+50
+'segun la cantidad los min  a segundos es: ' , min
+4
+1
+46
+'señor usuario digite la cantidad de segundos'
+5
+1
+4
+num3
+6
+1
+3
+seg
+6
+num3*1
+4
+1
+54
+'segun la cantidad los segundos a segundos es: ' , seg
+1

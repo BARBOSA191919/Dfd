@@ -1,0 +1,59 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+40
+'Señor usuario digite un numero entero' 
+5
+1
+4
+num1
+4
+1
+41
+'Señor usuario digite otro numero entero'
+5
+1
+4
+num2
+6
+3
+4
+suma
+9
+num1+num2
+5
+resta
+9
+num1-num2
+3
+mul
+9
+num1*num2
+6
+1
+3
+div
+9
+num1/num2
+4
+1
+38
+'La suma de los dos numeros es :',suma
+4
+1
+40
+'la resta de los dos numeros es :',resta
+4
+1
+49
+' la multiplicacion de los dos numeros es : ',mul
+4
+1
+43
+'la division de los dos numeros es: ' , div
+1

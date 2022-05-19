@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+35
+'Ingrese el total de los productos'
+5
+1
+8
+cantidad
+4
+1
+83
+'El supermercado Éxito ofrece un descuento del 15%, por favor digite su porcentaje'
+5
+1
+10
+porcentaje
+6
+2
+10
+porcentaje
+23
+porcentaje*cantidad/100
+9
+resultado
+19
+cantidad-porcentaje
+4
+1
+73
+'el valor con descuento de : ' , cantidad ,'$', ' es de ', porcentaje,'$'
+4
+1
+42
+'el valor a pagar es de : ' ,resultado,'$'
+1

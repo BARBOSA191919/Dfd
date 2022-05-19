@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+53
+'Ingresa uno de los lados del hexagono regular en cm'
+5
+1
+4
+lado
+6
+1
+9
+perimetro
+14
+lado * 6 *0.87
+4
+1
+107
+'El perimeto del hexagono regular inscrito en una corcunferencia de un radio dado  es: ', perimetro , 'cm' 
+1

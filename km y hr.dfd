@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+28
+'Digite la distancia en km '
+5
+1
+9
+distancia
+4
+1
+31
+'escribe la distancia en horas'
+5
+1
+6
+tiempo
+6
+1
+9
+velocidad
+26
+distancia + tiempo*0277778
+4
+1
+80
+'la velocidad constante del atleta en metros x hora  ' , velocidad  , ' METROS '
+1

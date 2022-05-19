@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+28
+'Ingrese los grados celsius'
+5
+1
+7
+celsius
+6
+1
+9
+respuesta
+14
+celsius*1.8+32
+4
+1
+51
+'Su nueva temperatura es Fahrenheit es:', respuesta
+1

@@ -1,0 +1,45 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+46
+'Ingrese la cantiadad de hombres del programa'
+5
+1
+1
+h
+4
+1
+45
+'ingrese la cantidad de mujeres del programa'
+5
+1
+1
+m
+6
+3
+2
+ta
+3
+h+m
+2
+ph
+8
+h*100/ta
+2
+pm
+8
+m*100/ta
+4
+1
+83
+'El porcentaje total de hombres del programa de ingenieria agricoles es: ', ph, '%'
+4
+1
+83
+'El porcentaje total de hombres del programa de ingenieria agricoles es: ', pm, '%'
+1

@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+46
+'señor usuario digite el angulo del triangulo'
+5
+1
+6
+angulo
+7
+0
+1
+12
+(Angulo=90) 
+7
+0
+1
+11
+(angulo>90)
+7
+0
+1
+11
+(angulo<90)
+13
+4
+1
+30
+'este es un angulo acutangulo'
+13
+13
+4
+1
+23
+'este angulo es obtuso'
+13
+13
+4
+1
+25
+'este es un angulo recto'
+13
+1

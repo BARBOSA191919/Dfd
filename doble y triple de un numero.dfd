@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+39
+'Señor usuario digite un numero entero'
+5
+1
+3
+num
+6
+2
+5
+doble
+5
+num^2
+6
+triple
+5
+num^3
+4
+1
+45
+'El doble o cuadrado del numero es :' , doble
+4
+1
+44
+'El triple o el cubo del numero es ', triple
+1

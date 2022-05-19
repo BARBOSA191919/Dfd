@@ -1,0 +1,55 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+44
+'Señor usuario digite la cantidad en metros'
+5
+1
+6
+metros
+4
+1
+42
+'Señor usuario digite la cantidad en pies'
+5
+1
+4
+pies
+6
+3
+4
+suma
+13
+pies + metros
+8
+pulgadas
+8
+suma *12
+6
+millas
+17
+suma * 0000189394
+6
+1
+8
+metricos
+10
+suma*03048
+4
+1
+45
+'La suma convertida a pulgadas es' , pulgadas
+4
+1
+44
+'La suma convetida en metros es ' , metricos
+4
+1
+42
+'la suma convertida en millas es' , millas
+1

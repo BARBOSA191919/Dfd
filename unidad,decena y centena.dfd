@@ -1,0 +1,67 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+3
+num
+1
+0
+3
+uni
+1
+0
+3
+dec
+1
+0
+6
+2
+3
+cen
+1
+0
+3
+res
+1
+0
+5
+1
+3
+num
+6
+3
+3
+cen
+15
+trunc (num/100)
+3
+res
+15
+num - (cen*100)
+3
+dec
+13
+trunc(res/10)
+6
+1
+3
+uni
+14
+res - (dec*10)
+4
+1
+16
+'CENTENA: ', cen
+4
+1
+15
+'DECENA: ' ,dec
+4
+1
+15
+'UNIDAD: ' ,uni
+1
